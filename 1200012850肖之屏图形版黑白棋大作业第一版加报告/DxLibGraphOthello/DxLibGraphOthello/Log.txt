@@ -1,0 +1,112 @@
+0:僔僗僥儉偺忣曬傪弌椡偟傑偡
+3:	俢倃儔僀僽儔儕 Ver3.08f
+4:	榑棟僾儘僙僢僒偺悢 : 4
+5:	俷俽  Windows7 ( Build 7601 Service Pack 1 )
+107:	俠俹倀摦嶌懍搙丗戝懱2.78GHz
+108:	俵俵倃柦椷傪巊梡偟傑偡
+109:	俽俽俤柦椷偑巊梡壜擻偱偡
+110:	俽俽俤俀柦椷偑巊梡壜擻偱偡
+111:	俠俹倀儀儞僟丗GenuineIntel
+116:	俠俹倀柤丗Intel(R) Core(TM) i7 CPU       M 640  @ 2.80GHz
+117:俠俷俵偺弶婜壔... 惉岟偟傑偟偨
+120:儊儌儕憤検:3062.88MB  嬻偒儊儌儕椞堟:1116.29MB 
+122:僞僀儅乕偺惛搙傪専嵏偟傑偡
+123:惛搙寢壥 峏怴夞悢 儅儖僠儊僨傿傾僞僀儅乕丗0  僷僼僅乕儅儞僗僇僂儞僞乕丗60
+125: 僷僼僅乕儅儞僗僇僂儞僞乕傪巊梡偟傑偡 僞僀儅乕惛搙 : 2727.597000 KHz 
+127: 僜僼僩偺擇廳婲摦専嵏... 擇廳婲摦偼偝傟偰偄傑偣傫偱偟偨
+130:僂僀儞僪僂僋儔僗傪搊榐偟傑偡... 搊榐偵惉岟偟傑偟偨
+132:僼儖僗僋儕乕儞儌乕僪梡偺僂僀儞僪僂傪嶌惉偟傑偡
+135:僂僀儞僪僂偺嶌惉偵惉岟偟傑偟偨
+136:僂僀儞僪僂傪昞帵偟傑偡
+149:僇乕僜儖傪晄壜帇偵偟傑偟偨
+150:俬俵俤傪柍岠偵偟傑偟偨
+169:DirectInput娭學弶婜壔張棟
+170:	DirectInput7 偺庢摼拞... 惉岟
+182:		堷偒懕偒弶婜壔張棟... 弶婜壔惉岟
+185:	僕儑僀僷僢僪偺弶婜壔... 
+190:	僕儑僀僷僢僪偺弶婜壔偼惓忢偵廔椆偟傑偟偨
+192:	儅僂僗僨僶僀僗偺弶婜壔... 弶婜壔惉岟
+194:	僉乕儃乕僪僨僶僀僗偺弶婜壔... 弶婜壔惉岟
+197:DirectInput 娭楢偺弶婜壔偼惓忢偵廔椆偟傑偟偨
+199:DirectSound 偺弶婜壔傪峴偄傑偡
+200:DirectSound 僀儞僞乕僼僃乕僗偺庢摼傪峴偄傑偡....  惉岟
+204:堷偒懕偒僀儞僞乕僼僃乕僗偺弶婜壔張棟...  惉岟
+331:	DirectSound 僨僶僀僗傪楍嫇偟傑偡
+333:		儌僕儏乕儖柤:                 僪儔僀僶婰弎:主声音驱动程序 
+334:		儌僕儏乕儖柤:{0.0.0.00000000}.{b940b0da-683d-470f-bf4c-b5cbe318a016}  僪儔僀僶婰弎:扬声器 (High Definition Audio 设备) 
+336:	嵟戝僒儞僾儕儞僌儗乕僩:200.00KHz 嵟彫僒儞僾儕儞僌儗乕僩:0.10KHz 
+338:	憤僒僂儞僪儊儌儕椞堟:0.00KB 嬻偒僒僂儞僪儊儌儕椞堟:0.00KB 
+
+339:	棙梡壜擻僒儞僾儕儞僌惛搙
+342:	 僾儔僀儅儕 侾俇bit = OK  俉bit = OK 
+343:	 僙僇儞僟儕 侾俇bit = OK  俉bit = OK 
+
+344:	棙梡壜擻僠儍儞僱儖
+345:	 僾儔僀儅儕 MONO = OK  STEREO = OK 
+346:	 僙僇儞僟儕 MONO = OK  STEREO = OK 
+
+348:DirectSound 偺弶婜壔偼惓忢偵廔椆偟傑偟偨
+351:DirectDraw 僆僽僕僃僋僩偺庢摼傪峴偄傑偡....  惉岟
+355:堷偒懕偒弶婜壔張棟... 弶婜壔偵惉岟偟傑偟偨
+385:IDirect3D9Ex 僆僽僕僃僋僩傪庢摼偟傑偡.... 惉岟
+862:Desktop Window Manager 傪柍岠偵偟傑偟偨
+868:IDirect3DDevice9Ex 僆僽僕僃僋僩傪庢摼偟傑偡.... 僴乕僪僂僄傾捀揰墘嶼傪巊梡偟傑偡
+1774:惉岟
+1775:Driver:nvd3dum.dll  Description:NVIDIA GeForce 310M
+1776:夋柺偺僼僅乕儅僢僩偼 D3DFMT_R5G6B5 偱偡
+1777:倅僶僢僼傽偺僼僅乕儅僢僩偼 D3DFMT_D16 偱偡
+1778:16bit 僇儔乕僼僅乕儅僢僩偼 D3DFMT_R5G6B5 偱偡
+1779:32bit 僇儔乕僼僅乕儅僢僩偼 D3DFMT_X8R8G8B8 偱偡
+1780:傾儖僼傽晅偒 16bit 僇儔乕僼僅乕儅僢僩偼 D3DFMT_A4R4G4B4 偱偡
+1781:傾儖僼傽晅偒 32bit 僇儔乕僼僅乕儅僢僩偼 D3DFMT_A8R8G8B8 偱偡
+1782:傾儖僼傽僥僗僩梡 16bit 僇儔乕僼僅乕儅僢僩偼 D3DFMT_A1R5G5B5 偱偡
+1782:傾儖僼傽僥僗僩梡 32bit 僇儔乕僼僅乕儅僢僩偼 D3DFMT_A8R8G8B8 偱偡
+1783:俢倃俿侾僥僋僗僠儍僼僅乕儅僢僩偼D3DFMT_DXT1 偱偡
+1784:俢倃俿俀僥僋僗僠儍僼僅乕儅僢僩偼 D_D3DFMT_DXT2 偱偡
+1785:俢倃俿俁僥僋僗僠儍僼僅乕儅僢僩偼D3DFMT_DXT3 偱偡
+1786:俢倃俿係僥僋僗僠儍僼僅乕儅僢僩偼D3DFMT_DXT4 偱偡
+1787:俢倃俿俆僥僋僗僠儍僼僅乕儅僢僩偼D3DFMT_DXT5 偱偡
+1788:昤夋梡 16bit 僇儔乕僼僅乕儅僢僩偼 D3DFMT_R5G6B5 偱偡
+1789:昤夋梡 32bit 僇儔乕僼僅乕儅僢僩偼 D3DFMT_X8R8G8B8 偱偡
+1790:昤夋梡傾儖僼傽晅偒 32bit 僇儔乕僼僅乕儅僢僩偼 D3DFMT_A8R8G8B8 偱偡
+1791:昤夋梡ABGR惍悢16價僢僩宆僇儔乕僼僅乕儅僢僩偼 D3DFMT_A16B16G16R16 偱偡
+1792:昤夋梡ABGR晜摦彫悢揰16價僢僩宆僇儔乕僼僅乕儅僢僩偼 D3DFMT_A16B16G16R16F 偱偡
+1792:昤夋梡ABGR晜摦彫悢揰32價僢僩宆僇儔乕僼僅乕儅僢僩偼 D3DFMT_A32B32G32R32F 偱偡
+1793:昤夋梡侾僠儍儞僱儖惍悢8價僢僩宆僇儔乕僼僅乕儅僢僩偼 D3DFMT_L8 偱偡
+1794:昤夋梡侾僠儍儞僱儖惍悢16價僢僩宆僇儔乕僼僅乕儅僢僩偼 D3DFMT_L16 偱偡
+1795:昤夋梡侾僠儍儞僱儖晜摦彫悢揰16價僢僩宆僇儔乕僼僅乕儅僢僩偼 D3DFMT_R16F 偱偡
+1796:昤夋梡侾僠儍儞僱儖晜摦彫悢揰32價僢僩宆僇儔乕僼僅乕儅僢僩偼 D3DFMT_R32F 偱偡
+1796:昤夋梡俀僠儍儞僱儖惍悢8價僢僩宆僇儔乕僼僅乕儅僢僩偼 D3DFMT_A8B8G8R8 偱偡
+1797:昤夋梡俀僠儍儞僱儖惍悢16價僢僩宆僇儔乕僼僅乕儅僢僩偼 D3DFMT_G16R16 偱偡
+1798:昤夋梡俀僠儍儞僱儖晜摦彫悢揰16價僢僩宆僇儔乕僼僅乕儅僢僩偼 D3DFMT_G16R16F 偱偡
+1798:昤夋梡俀僠儍儞僱儖晜摦彫悢揰32價僢僩宆僇儔乕僼僅乕儅僢僩偼 D3DFMT_G32R32F 偱偡
+1799:堦搙偵昤夋偱偒傞僾儕儈僥傿僽偺嵟戝悢:8388607
+1800:懳墳偟偰偄傞嵟戝捀揰僀儞僨僢僋僗:16777215
+1801:摨帪偵儗儞僟儕儞僌偱偒傞僶僢僼傽偺悢:4
+1802:嵟戝僥僋僗僠儍僒僀僘丂暆:8192 崅偝:8192
+1803:僥僋僗僠儍僗僥乕僕僥儞億儔儕儗僕僗僞丗巊梡壜
+1804:尭嶼崌惉偺僴乕僪僂僃傾懳墳丗僱僀僥傿僽
+1805:僴乕僪僂僃傾捀揰僔僃乕僟乕僶乕僕儑儞僐乕僪丗300
+1806:僄儈儏儗乕僔儑儞捀揰僔僃乕僟乕僶乕僕儑儞僐乕僪丗僄儈儏儗乕僔儑儞柍偟
+1807:僺僋僙儖僔僃乕僟乕僶乕僕儑儞僐乕僪丗300
+1818:僶僢僋僶僢僼傽儘僢僋揮憲偺帪娫:71nsec  堦帪揑側昤夋壜擻僶僢僼傽傪巊梡偟偨揮憲偺帪娫:440nsec
+1819:僶僢僋僶僢僼傽儘僢僋傪巊梡偟傑偡
+1820:倅僶僢僼傽傪嶌惉偟傑偡.... 惉岟
+1834:僾儘僌儔儅僽儖僔僃乕僟乕傪巊梡偟傑偡
+
+1907:僼僅儞僩偺弶婜壔傪峴偄傑偡
+1910:僼僅儞僩偺弶婜壔偼惓忢偵廔椆偟傑偟偨
+1927:暥帤僐乕僪僶僢僼傽偺弶婜壔傪峴偄傑偡... 姰椆偟傑偟偨
+13614:僼僅儞僩偺弶婜壔傪峴偄傑偡
+13616:僼僅儞僩偺弶婜壔偼惓忢偵廔椆偟傑偟偨
+13619:Direct3DDevice9 偺夝曻 2
+14173:Direct3D9 DLL 偺夝曻 1
+14177:DirectInput 娭楢偺廔椆張棟... 姰椆
+14241:DirectSound 偺廔椆張棟偼惓忢偵廔椆偟傑偟偨
+14245:僂僀儞僪僂傪暵偠傛偆偲偟偰偄傑偡
+14260:僂僀儞僪僂偑攋婞偝傟傛偆偲偟偰偄傑偡
+14263:僜僼僩傪廔椆偡傞弨旛偑惍偄傑偟偨
+14307:
+14309:Alloc memory dump
+14311:	Total size:0(0.000kb)  Alloc num:0
+14313:
